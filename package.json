@@ -1,0 +1,26 @@
+{
+  "name": "koapack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josudoey/koapack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josudoey/koapack/issues"
+  },
+  "homepage": "https://github.com/josudoey/koapack#readme",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-compose": "^2.5.1",
+    "koa-static": "^2.0.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
